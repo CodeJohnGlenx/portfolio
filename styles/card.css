@@ -1,0 +1,126 @@
+.project-wrapper {
+    background: linear-gradient(#36454F, #000000);
+    padding: var(--global-v-offset) var(--global-h-offset);
+}
+
+.project-wrapper * {
+    font-weight: 300;
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+
+.card-title {
+    background-color: var(--theme-color);
+    display: inline-block;
+    padding:  0 0.5rem;
+    font-size: 1.3rem;
+}
+
+.card {
+    width: 20rem;
+    background: #36454F;
+    text-align: justify;
+}
+
+.description {
+    opacity: 0.8;
+    font-size: 0.9rem;
+    margin: 0;
+}
+
+
+
+.card-links * {
+    border-bottom: 0.2rem solid var(--theme-color);
+}
+
+.card-links * {
+    background: linear-gradient(to right, var(--theme-color), var(--theme-color));
+    background-repeat: no-repeat;
+    background-size: 0 100%;
+    transition: background-size 0.5s 0s;
+    cursor: pointer;
+    padding: 0 0.2rem;
+    margin-right: 0.5rem;
+}
+
+.card-links *:hover {
+    background-size: 100% 100%;
+}
+
+.technologies {
+    margin: 1rem 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem 0.3rem;
+}
+
+.card-links .card-text, .tech {
+    font-size: 0.9rem;
+}
+
+.tech {
+    border: 0.1rem solid white;
+    padding: 0.1rem 0.5rem;
+    border-radius: 1rem;
+    cursor: pointer;
+}
+
+.orange {
+    border: 0.1rem solid var(--orange);
+}
+
+.orange:hover {
+    background-color: var(--orange);
+}
+
+.yellow {
+    border: 0.1rem solid var(--yellow);
+}
+
+.yellow:hover {
+    background-color: var(--yellow);
+}
+
+.blue {
+    border: 0.1rem solid var(--blue);
+}
+
+.blue:hover {
+    background-color: var(--blue);
+}
+
+.red {
+    border: 0.1rem solid var(--red);
+}
+
+.red:hover {
+    background-color: var(--red);
+}
+
+.purple {
+    border: 0.1rem solid var(--purple);
+}
+
+.purple:hover {
+    background-color: var(--purple);
+}
+
+.green {
+    border: 0.1rem solid var(--green);
+}
+
+.green:hover {
+    background-color: var(--green);
+}
+
+
+
+
+

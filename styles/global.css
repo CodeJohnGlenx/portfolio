@@ -1,7 +1,13 @@
 :root {
-    --global-h-offset: 2rem;
-    --global-v-offset: 2rem;
+    --global-h-offset: 4rem;
+    --global-v-offset: 5rem;
     --theme-color: #3498DB;
+    --yellow: #F1C40F;
+    --blue: #3498DB;
+    --orange: #F39C12;
+    --red: #E74C3C;
+    --purple: #9B59B6;
+    --green: #2ECC71;
 }
 
 * {
@@ -84,6 +90,10 @@ h1 {
 
 .about-content img {
     height: 20rem;
+}
+
+a {
+    text-decoration: none;
 }
 
 

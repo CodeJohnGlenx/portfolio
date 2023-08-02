@@ -27,50 +27,50 @@ const cardsInfo = [
         title: 'Phoney',
         description: 'Counterfeit mobile phone product classifier',
         tech: ['python', 'pandas', 'scikit-learn', 'numpy', 'streamlit'],
-        srcURL: 'https://github.com/CodeJohnGlenx',
-        liveURL: 'https://htmlcolorcodes.com/'
+        srcURL: 'https://github.com/CodeJohnGlenx/phoney',
+        liveURL: ''
     },
     {
         title: 'Wonderpets',
         description: 'Mobile web application for online pet adoption',
         tech: ['html', 'css', 'javascript', 'next', 'node', 'firebase'],
-        srcURL: 'https://github.com/CodeJohnGlenx',
+        srcURL: 'https://github.com/jrzvnn/wonderpets',
         liveURL: ''
     },
     {
         title: 'nJS',
         description: 'Statically-typed JavaScript based from the principles of Java programming',
         tech: ['njs', 'java', 'cli'],
-        srcURL: 'https://github.com/CodeJohnGlenx',
+        srcURL: 'https://github.com/CodeJohnGlenx/njs',
         liveURL: ''
     },
     {
         title: 'Currency Deno API',
         description: 'Conversion between two currencies and the nearest denomination of the converted currency',
         tech: ['python', 'fastapi'],
-        srcURL: 'https://github.com/CodeJohnGlenx',
+        srcURL: 'https://github.com/CodeJohnGlenx/CurrenciesDenominationAPI',
         liveURL: ''
     },
     {
         title: 'Anagram-esque',
         description: 'Seamless generation of english words based on user letter inputs',
         tech: ['html', 'css', 'javascript', 'python', 'flask'],
-        srcURL: 'https://github.com/CodeJohnGlenx',
-        liveURL: 'https://htmlcolorcodes.com/'
+        srcURL: 'https://github.com/CodeJohnGlenx/anagram-esque',
+        liveURL: ''
     },
     {
         title: 'SaveUp',
         description: 'Native android application for expenditure and budget management',
         tech: ['kotlin', 'realm-orm', 'android'],
-        srcURL: 'https://github.com/CodeJohnGlenx',
+        srcURL: 'https://github.com/CodeJohnGlenx/saveUp',
         liveURL: ''
     },
     {
         title: 'Origami',
         description: 'Origami models tutorial website',
         tech: ['html', 'css', 'javascript'],
-        srcURL: 'https://github.com/CodeJohnGlenx',
-        liveURL: 'https://htmlcolorcodes.com/'
+        srcURL: 'https://github.com/CodeJohnGlenx/origami_webdev',
+        liveURL: ''
     },
 ]
 

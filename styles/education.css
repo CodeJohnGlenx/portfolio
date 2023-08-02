@@ -1,0 +1,23 @@
+.education-wrapper {
+    padding: var(--global-v-offset) var(--global-h-offset);
+}
+
+.education-wrapper * {
+    font-weight: 300 !important;
+    color: black !important;
+}
+
+
+.eduction-content .school {
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.3rem;
+    margin-bottom: 0.5rem;
+}
+
+.eduction-content .course span {
+    background-color: var(--theme-color);
+    color: white !important;
+    padding: 0.1rem 1rem;
+}
+
